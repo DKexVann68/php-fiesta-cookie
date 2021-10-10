@@ -1,4 +1,0 @@
-{
-    "phpformatter.composer": true,
-    "phpformatter.pharPath": "[\"--rules=@psr2\"]"
-}
