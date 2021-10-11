@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
-# functional Practice 4-02
-echo 'FUNCTIONALS';
-
-=======
+# Functions
 $RUBYjet = array(
     'id' => array(1,2,3,4,5,6,7,8,9,10),
     'species' =>array('Bulbasaur','Ivysaur','Venusaur','Charmander','Charmeleon','Charizard','Squirtle', 'Wartortle','Blastoise','Caterpie'),
@@ -43,5 +39,4 @@ function hp_sum(){
 
 
     # Cheers!
->>>>>>> 75919d9c514705fbeebde0a40d6bb582085720bf
 ?>
