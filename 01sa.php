@@ -3,7 +3,7 @@
 
 $RUBYjet = array(
     'id' => array(1,2,3,4,5,6,7,8,9,10),
-    'species' =>array('Bulbasaur','Ivysaur','Venusaur','Charmander','Charmeleon','Charizard','Squirtle', 'Wartotle','Blastoise','Caterpie'),
+    'species' =>array('Bulbasaur','Ivysaur','Venusaur','Charmander','Charmeleon','Charizard','Squirtle', 'Wartortle','Blastoise','Caterpie'),
     'type1' => array('Grass','Grass','Grass','Fire', 'Fire', 'Fire', 'Water','Water','Water','Bug'),
     'type2'=>array('Poison','Poison','Poison','N/A','N/A','Flying','N/A','N/A','N/A','N/A'),
     'ability'=>array('Overgrow','Overgrow','Overgrow','Blaze','Blaze','Blaze','Torrent', 'Torrent', 'Torrent', 'Shield Dust'),
